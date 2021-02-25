@@ -1,2 +1,2 @@
 # weired
-IA, ML DataSet. 
+AI, ML DataSet. 
